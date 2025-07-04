@@ -18,3 +18,9 @@ O principal objetivo deste repositório é:
 
 Os exercícios e projetos estão organizados em subpastas, geralmente com um nome descritivo para o tema ou funcionalidade. Cada pasta de projeto contém os arquivos de código (`.py`) e um `README.md` específico com mais detalhes sobre o exercício.
 
+### Projetos e Exercícios
+
+* 👥 **Cadastro de Pessoas por Sexo e Idade**
+    Este é um exercício simples em Python que explora conceitos como laços de repetição, condicionais, utilização do comando break para interrupções de laços e processar dados de usuários.
+    [Acessar Projeto Cadastro de Pessoas](Sexo_Idade/)
+---
